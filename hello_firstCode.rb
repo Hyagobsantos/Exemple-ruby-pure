@@ -29,7 +29,6 @@ ops = "IR EMBORA"
 #         ano: "2017", 
 #         cor: "branco"
 #     }
-   
 # };
 
 # puts "O carro #{objeto[:carro1][:carro]}}"
