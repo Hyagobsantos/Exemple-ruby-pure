@@ -18,9 +18,10 @@
 # puts "O Seu Antecessor é #{n1 - 1}"
 
 
-def01 = def somar (&block) yield end
 
-puts def01
+
+
+
 
 
 
